@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fz1lin.com/"><img width="80%" src="./header.png" /></a></p>
+<p align="left"><a href="https://fz1lin.com/"><img width="80%" src="./header.png" /></a></p>
 
 ### About  Me
 - 💖 Blog：「 https://fz1lin.com 」
