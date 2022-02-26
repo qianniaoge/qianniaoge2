@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fz1lin.com/"><img width="80%" src="![readme-header](https://user-images.githubusercontent.com/73567170/155826145-9c55c28a-7a81-4997-88a8-43a6664e9b38.png)" /></a></p>
+<p align="center"><a href="https://fz1lin.com/"><img width="80%" src="./header.png" /></a></p>
 
 ### About  Me
 - 💖 Blog：「 https://fz1lin.com 」
